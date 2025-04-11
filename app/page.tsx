@@ -18,28 +18,28 @@ export default function Home() {
       id: 1,
       name: "Khaki Pleated Trousers",
       price: "1,625.00",
-      image: "/images/1.jpg",
+      image: "/images/1.webp",
       link: "/contact"
     },
     {
       id: 2,
       name: "Classic Stripe Shirt",
       price: "1,625.00",
-      image: "/images/2.jpg",
+      image: "/images/2.webp",
       link: "/"
     },
     {
       id: 3,
       name: "Modern Stripe Shirt",
       price: "1,625.00",
-      image: "/images/3.jpg",
+      image: "/images/3.webp",
       link: "/"
     },
     {
       id: 4,
       name: "Beige Pleated Trousers",
       price: "1,690.00",
-      image: "/images/4.jpg",
+      image: "/images/4.webp",
       link: "/"
     }
   ]
@@ -66,7 +66,7 @@ export default function Home() {
       {/* Title Event Section */}
       <section className="grid grid-cols-1 md:grid-cols-2 mb-8 md:mb-16 m-4">
           <Image
-            src="/images/event.jpg"
+            src="/images/event.webp"
             alt="The Ethereal"
             width={600}
             height={800}
