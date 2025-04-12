@@ -19,28 +19,28 @@ export default function Home() {
       name: "Khaki Pleated Trousers",
       price: "1,625.00",
       image: "/images/1.webp",
-      link: "/contact"
+      link: "/khaki-pleated-trousers"
     },
     {
       id: 2,
       name: "Classic Stripe Shirt",
       price: "1,625.00",
       image: "/images/2.webp",
-      link: "/"
+      link: "/classic-stripe-shirt"
     },
     {
       id: 3,
       name: "Modern Stripe Shirt",
       price: "1,625.00",
       image: "/images/3.webp",
-      link: "/"
+      link: "/modern-stripe-shirt"
     },
     {
       id: 4,
       name: "Beige Pleated Trousers",
       price: "1,690.00",
       image: "/images/4.webp",
-      link: "/"
+      link: "/beige-pleated-trousers"
     }
   ]
 

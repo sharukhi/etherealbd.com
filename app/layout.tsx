@@ -2,7 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import localFont from 'next/font/local'
 import "./globals.css"
-import AudioPlayer from "@/components/audio-player"
+// import AudioPlayer from "@/components/audio-player"
 
 const ClashGrotesk = localFont({
   src: [
@@ -53,7 +53,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={ClashGrotesk.className}>
         {children}
-        <AudioPlayer />
+       {/* <AudioPlayer /> */} 
       </body>
     </html>
   )

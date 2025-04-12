@@ -30,9 +30,8 @@ export default function VideoHero() {
           muted
           loop
           playsInline
-          poster="/images/ethereal-poster.jpg"
         >
-          <source src="/videos/1.webm" type="video/mp4" />
+          <source src="/videos/2.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 bg-black bg-opacity-30"></div>
@@ -42,7 +41,7 @@ export default function VideoHero() {
 
       {/* Right Video - NEW ARRIVAL */}
   
-      <div className="relative bg-[#8d6e65] flex flex-col justify-center items-center overflow-hidden">
+      <div className="relative flex flex-col justify-center items-center overflow-hidden">
         <video
           ref={rightVideoRef}
           className="absolute inset-0 w-full h-full object-cover"
@@ -51,7 +50,7 @@ export default function VideoHero() {
           loop
           playsInline
         >
-          <source src="/videos/2.webm" type="video/mp4" />
+          <source src="/videos/1.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 bg-black bg-opacity-30"></div>
