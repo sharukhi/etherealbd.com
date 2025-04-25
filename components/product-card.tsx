@@ -24,7 +24,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 
   return (
     <div className="group">
-      <Link href={`/shop/product/${product.link}`} className="block relative">
+      <Link href={`http://shop.etherealbd.com/product/${product.link}`} className="block relative">
         <div className="mb-3 relative overflow-hidden">
           <Image
             src={image || "/placeholder.svg"}

@@ -67,7 +67,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/shop" className="text-xs text-gray-400 hover:text-white">
+                <Link href="http://shop.etherealbd.com/" className="text-xs text-gray-400 hover:text-white">
                   Shop
                 </Link>
               </li>
