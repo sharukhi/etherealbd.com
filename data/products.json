@@ -1,0 +1,282 @@
+{
+  "newArrivals": [
+{
+      "id": "1",
+      "name": "Revolution by Ethereal",
+      "slug": "revolution-by-ethereal",
+      "category": "Tops",
+      "price": 1199.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/1_k2aiog.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/b-t_mevopq.jpg"]
+    },
+    {
+      "id": "2",
+      "name": "Statement by Ethereal",
+      "slug": "statement-by-ethereal",
+      "category": "Tops",
+      "price": 1169.0,
+      "images": ["/tmp/products/1.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/w-t_oahnun.jpg"]
+    },
+    {
+      "id": "3",
+      "name": "Obsidian Black",
+      "slug": "obsidian-black",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/obs_bl_tu9hmo.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/ob_xc55wx.jpg"]
+    },
+    {
+      "id": "4",
+      "name": "Dust Fade Blue",
+      "slug": "dust-fade-blue",
+      "category": "Bottoms",
+      "price": 1240.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+    }
+  ],
+  "bestSelling": [
+{
+      "id": "5",
+      "name": "Abstract Blue",
+      "slug": "abstract-blue",
+      "category": "Tops",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/abs_blue_wg3n16.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
+    },
+    {
+      "id": "6",
+      "name": "Rugged Black",
+      "slug": "rugged-black",
+      "category": "Tops",
+      "price": 1580.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294234/rugged_bl_zbuv5j.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
+    },
+    {
+      "id": "7",
+      "name": "Distorted Noir",
+      "slug": "distorted-noir",
+      "category": "Bottoms",
+      "price": 1499.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+    },
+    {
+      "id": "8",
+      "name": "Deep Indigo",
+      "slug": "deep-indigo",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+    }
+  ],
+  "moreProducts": [
+    {
+      "id": "8",
+      "name": "Distorted Noir",
+      "slug": "distorted-noir",
+      "category": "Bottoms",
+      "price": 1499.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+    },
+    {
+      "id": "9",
+      "name": "Deep Indigo",
+      "slug": "deep-indigo",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+    },
+    {
+      "id": "10",
+      "name": "Ash Tone Grey",
+      "slug": "ash-tone-grey",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/ash_grey_q9uy2i.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/a-t-g_nelfae.jpg"]
+    },
+     {
+    "id": "11",
+    "name": "Dust Fade Blue",
+    "slug": "dust-fade-blue",
+    "category": "Bottoms",
+    "price": 1240.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+  }
+  ],
+  "allProducts": [
+    {
+      "id": "13",
+      "name": "Revolution by Ethereal",
+      "slug": "revolution-by-ethereal",
+      "category": "Tops",
+      "price": 1199.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/1_k2aiog.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/b-t_mevopq.jpg"]
+    },
+    {
+      "id": "14",
+      "name": "Statement by Ethereal",
+      "slug": "statement-by-ethereal",
+      "category": "Tops",
+      "price": 1169.0,
+      "images": ["/tmp/products/1.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/w-t_oahnun.jpg"]
+    },
+    {
+      "id": "15",
+      "name": "Obsidian Black",
+      "slug": "obsidian-black",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/obs_bl_tu9hmo.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/ob_xc55wx.jpg"]
+    },
+    {
+      "id": "16",
+      "name": "Dust Fade Blue",
+      "slug": "dust-fade-blue",
+      "category": "Bottoms",
+      "price": 1240.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+    },
+    {
+      "id": "17",
+      "name": "Abstract Blue",
+      "slug": "abstract-blue",
+      "category": "Tops",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/abs_blue_wg3n16.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
+    },
+    {
+      "id": "18",
+      "name": "Rugged Black",
+      "slug": "rugged-black",
+      "category": "Tops",
+      "price": 1580.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294234/rugged_bl_zbuv5j.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
+    },
+    {
+      "id": "19",
+      "name": "Distorted Noir",
+      "slug": "distorted-noir",
+      "category": "Bottoms",
+      "price": 1499.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+    },
+    {
+      "id": "20",
+      "name": "Deep Indigo",
+      "slug": "deep-indigo",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+    },
+    {
+      "id": "21",
+      "name": "Ash Tone Grey",
+      "slug": "ash-tone-grey",
+      "category": "Bottoms",
+      "price": 1299.0,
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/ash_grey_q9uy2i.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/a-t-g_nelfae.jpg"]
+    },
+     {
+    "id": "22",
+    "name": "Dust Fade Blue",
+    "slug": "dust-fade-blue",
+    "category": "Bottoms",
+    "price": 1240.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+  },
+  {
+    "id": "23",
+    "name": "Classic Stripe Shirt",
+    "slug": "classic-stripe-shirt",
+    "category": "Tops",
+    "price": 1625.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284134/IMG_2047-scaled-1_vkszqn.webp", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284134/IMG_2047-scaled-1_vkszqn.webp"]
+  },
+  {
+    "id": "24",
+    "name": "Modern Stripe Shirt",
+    "slug": "modern-stripe-shirt",
+    "category": "Tops",
+    "price": 1625.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284500/IMG_2025-scaled_qpxvqu.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284500/IMG_2025-scaled_qpxvqu.jpg"]
+  },
+  {
+    "id": "25",
+    "name": "Khaki Pleated Trousers",
+    "slug": "khaki-pleated-trousers",
+    "category": "Bottoms",
+    "price": 1625.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284542/MUG05680-scaled_fomtsw.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284542/MUG05680-scaled_fomtsw.jpg"]
+  },
+  {
+    "id": "26",
+    "name": "Beige Pleated Trousers",
+    "slug": "beige-pleated-trousers",
+    "category": "Bottoms",
+    "price": 1690.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284565/IMG_2046-scaled_s9erye.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284565/IMG_2046-scaled_s9erye.jpg"]
+  },
+  {
+    "id": "27",
+    "name": "Espresso brown Pleated Trousers",
+    "slug": "espresso-brown-pleated-trousers",
+    "category": "Bottoms",
+    "price": 1690.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284616/IMG_2036-scaled_x3mpqz.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284616/IMG_2036-scaled_x3mpqz.jpg"]
+  },
+  {
+    "id": "28",
+    "name": "Ash",
+    "slug": "ash",
+    "category": "Bottoms",
+    "price": 1200.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284640/IMG_9003-scaled-1_xasmg5.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284640/IMG_9003-scaled-1_xasmg5.jpg"]
+  },
+  {
+    "id": "29",
+    "name": "Pure black",
+    "slug": "pure-black",
+    "category": "Bottoms",
+    "price": 1200.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284667/img_9004-scaled-1-scaled_npwnku.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284667/img_9004-scaled-1-scaled_npwnku.jpg"]
+  },
+  {
+    "id": "30",
+    "name": "Cargo",
+    "slug": "cargo",
+    "category": "Bottoms",
+    "price": 840.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284694/mug01006-scaled_jmb34r.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284694/mug01006-scaled_jmb34r.jpg"]
+  },
+  {
+    "id": "31",
+    "name": "Acid wash black",
+    "slug": "acid-wash-black",
+    "category": "Bottoms",
+    "price": 840.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284718/img_5576-scaled_afhi2q.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284718/img_5576-scaled_afhi2q.jpg"]
+  },
+  {
+    "id": "32",
+    "name": "Blue",
+    "slug": "blue",
+    "category": "Bottoms",
+    "price": 1200.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284813/IMG_8888-scaled_vd1mdo.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284813/IMG_8888-scaled_vd1mdo.jpg"]
+  },
+  {
+    "id": "33",
+    "name": "Acid wash blue",
+    "slug": "acid-wash-blue",
+    "category": "Bottoms",
+    "price": 840.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284840/IMG_8899-scaled_hbhdrh.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284840/IMG_8899-scaled_hbhdrh.jpg"]
+  },
+  {
+    "id": "34",
+    "name": "Sun fade",
+    "slug": "sun-fade",
+    "category": "Bottoms",
+    "price": 1050.0,
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748284858/mug00877-scaled_uotytu.jpg", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748284858/mug00877-scaled_uotytu.jpg"]
+  }
+  ]
+}

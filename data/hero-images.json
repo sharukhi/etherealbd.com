@@ -1,0 +1,31 @@
+{
+  "homeHero": [
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748290400/home-2_wjwxfq.jpg",
+      "alt": "img"
+    },
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748291613/home-1_3_yjpmny.jpg",
+      "alt": "img"
+    },
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748290400/home-2_wjwxfq.jpg",
+      "alt": "img"
+    }
+  ],
+  "homeMobileHero": [
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296983/IMG_4266_ydhjni.jpg",
+      "alt": "Mobile new arrivals"
+    },
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748280595/3-s_s702yd.jpg",
+      "alt": "Mobile summer collection"
+    },
+    {
+      "src": "https://res.cloudinary.com/dwlaojqop/image/upload/v1748280594/2-s_z2qapm.jpg",
+      "alt": "Mobile spring collection"
+    }
+  ]
+ 
+}
