@@ -34,7 +34,7 @@ export function ProductCard({ product }: { product: Product }) {
         <h3 className="text-sm font-medium text-et-brown">{product.name}</h3>
         <p className="text-sm text-et-brown/70 mb-1">{product.category}</p>
         <div className="flex items-center gap-2">
-          <span className="text-sm font-medium text-et-brown">${product.price.toFixed(2)}</span>
+          <span className="text-sm font-medium text-et-brown">৳{product.price.toFixed(2)}</span>
         </div>
       </div>
     </Link>
