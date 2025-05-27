@@ -14,7 +14,7 @@
       "slug": "statement-by-ethereal",
       "category": "Tops",
       "price": 1169.0,
-      "images": ["/tmp/products/1.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/w-t_oahnun.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322215/statement__ybklk0.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/w-t_oahnun.jpg"]
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "slug": "dust-fade-blue",
       "category": "Bottoms",
       "price": 1240.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/dust_fade_q1micw.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
     }
   ],
   "bestSelling": [
@@ -40,7 +40,7 @@
       "slug": "abstract-blue",
       "category": "Tops",
       "price": 1299.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/abs_blue_wg3n16.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322467/abs_blue_srrujp.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
     },
     {
       "id": "6",
@@ -56,7 +56,7 @@
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/distorded_noir_mgucyc.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
     },
     {
       "id": "8",
@@ -64,7 +64,7 @@
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322465/deep_in_p4gnj4.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
     }
   ],
   "moreProducts": [
@@ -74,7 +74,7 @@
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/distorded_noir_mgucyc.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
     },
     {
       "id": "9",
@@ -82,7 +82,7 @@
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322465/deep_in_p4gnj4.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
     "slug": "dust-fade-blue",
     "category": "Bottoms",
     "price": 1240.0,
-    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/dust_fade_q1micw.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
   }
   ],
   "allProducts": [
@@ -132,7 +132,7 @@
       "slug": "dust-fade-blue",
       "category": "Bottoms",
       "price": 1240.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/dust_fade_q1micw.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
     },
     {
       "id": "17",
@@ -140,7 +140,7 @@
       "slug": "abstract-blue",
       "category": "Tops",
       "price": 1299.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/abs_blue_wg3n16.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322467/abs_blue_srrujp.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
     },
     {
       "id": "18",
@@ -148,7 +148,7 @@
       "slug": "rugged-black",
       "category": "Tops",
       "price": 1580.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294234/rugged_bl_zbuv5j.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322467/abs_blue_srrujp.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
     },
     {
       "id": "19",
@@ -156,7 +156,7 @@
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294232/distorded_noir_oyopd6.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/distorded_noir_mgucyc.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/dis_noi_bw9z2e.jpg"]
     },
     {
       "id": "20",
@@ -164,7 +164,7 @@
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
-      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/deep_in_yye2bk.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
+      "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322465/deep_in_p4gnj4.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296211/d-i_otnigb.jpg"]
     },
     {
       "id": "21",
@@ -180,7 +180,7 @@
     "slug": "dust-fade-blue",
     "category": "Bottoms",
     "price": 1240.0,
-    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294233/dust_fade_yqwfxx.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
+    "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322466/dust_fade_q1micw.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/DF-bl_mvg5me.jpg"]
   },
   {
     "id": "23",
