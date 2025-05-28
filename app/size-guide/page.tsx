@@ -93,8 +93,8 @@ export default function SizeGuidePage() {
                   <thead>
                     <tr className="border-b border-nude-brown/10">
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Size</th>
-                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Inseam</th>
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Length</th>
+                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Inseam</th>
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Waist</th>
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Hips</th>
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Thighs</th>
@@ -112,21 +112,12 @@ export default function SizeGuidePage() {
                       <td className="py-3 px-4 text-sm text-nude-brown/80">17</td>
                     </tr>
                     <tr className="border-b border-nude-brown/10">
-                      <td className="py-3 px-4 text-sm text-nude-brown">S</td>
+                      <td className="py-3 px-4 text-sm text-nude-brown">M</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">41</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">30</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">30</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">40</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">24</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">17</td>
-                    </tr>
-                    <tr className="border-b border-nude-brown/10">
-                      <td className="py-3 px-4 text-sm text-nude-brown">M</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">41</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">30</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">28</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">38</td>
-                      <td className="py-3 px-4 text-sm text-nude-brown/80">23</td>
                       <td className="py-3 px-4 text-sm text-nude-brown/80">17</td>
                     </tr>
                     <tr className="border-b border-nude-brown/10">
