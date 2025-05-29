@@ -46,9 +46,9 @@ export default function SizeGuidePage() {
                   <thead>
                     <tr className="border-b border-nude-brown/10">
                       <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Size</th>
-                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Chest (cm)</th>
-                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Length (cm)</th>
-                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Shoulder (cm)</th>
+                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Chest (Inch)</th>
+                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Length (Inch)</th>
+                      <th className="py-3 px-4 text-left text-sm font-medium text-nude-brown">Shoulder (Inch)</th>
                     </tr>
                   </thead>
                   <tbody>
