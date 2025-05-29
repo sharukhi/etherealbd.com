@@ -96,14 +96,14 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               Bottoms
             </Link>
             <Link
-              href="/category/denim"
+              href="/category/bottoms"
               className="block text-2xl font-medium py-2 border-b border-et-brown/10 text-et-brown"
               onClick={handleClose}
             >
               Denim
             </Link>
             <Link
-              href="/category/formals"
+              href="/category/tops"
               className="block text-2xl font-medium py-2 border-b border-et-brown/10 text-et-brown"
               onClick={handleClose}
             >

@@ -135,7 +135,7 @@ export function SearchModal({ isOpen, onClose, products }: SearchModalProps) {
                   <div className="flex-1">
                     <h3 className="text-sm font-medium text-et-brown">{product.name}</h3>
                     <p className="text-xs text-et-brown/70">{product.category}</p>
-                    <p className="text-sm font-medium text-et-brown">${product.price.toFixed(2)}</p>
+                    <p className="text-sm font-medium text-et-brown">৳{product.price.toFixed(2)}</p>
                   </div>
                 </Link>
               ))}

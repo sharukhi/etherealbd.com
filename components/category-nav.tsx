@@ -5,8 +5,8 @@ const categories = [
   { name: "Shop All", href: "/shop" },
   { name: "Tops", href: "/category/tops" },
   { name: "Bottoms", href: "/category/bottoms" },
-  { name: "Denim", href: "/category/denim" },
-  { name: "Formals", href: "/category/formals" },
+  { name: "Denim", href: "/category/bottoms" },
+  { name: "Formals", href: "/category/tops" },
 ]
 
 export function CategoryNav() {

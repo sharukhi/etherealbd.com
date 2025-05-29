@@ -38,7 +38,7 @@
       "id": "5",
       "name": "Abstract Blue",
       "slug": "abstract-blue",
-      "category": "Tops",
+      "category": "Bottoms",
       "price": 1299.0,
       "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322467/abs_blue_srrujp.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
     },
@@ -46,7 +46,7 @@
       "id": "6",
       "name": "Rugged Black",
       "slug": "rugged-black",
-      "category": "Tops",
+      "category": "Bottoms",
       "price": 1580.0,
       "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294234/rugged_bl_zbuv5j.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
     },
@@ -138,7 +138,7 @@
       "id": "17",
       "name": "Abstract Blue",
       "slug": "abstract-blue",
-      "category": "Tops",
+      "category": "Bottoms",
       "price": 1299.0,
       "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748322467/abs_blue_srrujp.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296210/abs-BL_uqa2l0.jpg"]
     },
@@ -146,7 +146,7 @@
       "id": "18",
       "name": "Rugged Black",
       "slug": "rugged-black",
-      "category": "Tops",
+      "category": "Bottoms",
       "price": 1580.0,
       "images": ["https://res.cloudinary.com/dwlaojqop/image/upload/v1748294234/rugged_bl_zbuv5j.png", "https://res.cloudinary.com/dwlaojqop/image/upload/v1748296212/rug_dl6gcm.jpg"]
     },
