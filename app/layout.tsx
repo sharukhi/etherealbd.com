@@ -56,6 +56,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head><script defer src="https://cloud.umami.is/script.js" data-website-id="50e66994-d98c-41c2-bcf1-1afd8f33e051"></script></head>
       <body className={ClashGrotesk.className}>
         <Header />
         {children}
