@@ -2,7 +2,7 @@
   "newArrivals": [
 {
       "id": "1",
-      "name": "Revolution by Ethereal",
+      "name": "Revolution T-Shirt by Ethereal",
       "slug": "revolution-by-ethereal",
       "category": "Tops",
       "price": 1199.0,
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "Statement by Ethereal",
+      "name": "Statement T-Shirt by Ethereal",
       "slug": "statement-by-ethereal",
       "category": "Tops",
       "price": 1169.0,
@@ -18,7 +18,7 @@
     },
     {
       "id": "3",
-      "name": "Obsidian Black",
+      "name": "Obsidian Black Denim",
       "slug": "obsidian-black",
       "category": "Bottoms",
       "price": 1299.0,
@@ -26,7 +26,7 @@
     },
     {
       "id": "4",
-      "name": "Dust Fade Blue",
+      "name": "Dust Fade Blue Denim",
       "slug": "dust-fade-blue",
       "category": "Bottoms",
       "price": 1240.0,
@@ -36,7 +36,7 @@
   "bestSelling": [
 {
       "id": "5",
-      "name": "Abstract Blue",
+      "name": "Abstract Blue Denim",
       "slug": "abstract-blue",
       "category": "Bottoms",
       "price": 1299.0,
@@ -44,7 +44,7 @@
     },
     {
       "id": "6",
-      "name": "Rugged Black",
+      "name": "Rugged Black Denim",
       "slug": "rugged-black",
       "category": "Bottoms",
       "price": 1580.0,
@@ -52,7 +52,7 @@
     },
     {
       "id": "7",
-      "name": "Distorted Noir",
+      "name": "Distorted Noir Denim",
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
@@ -60,7 +60,7 @@
     },
     {
       "id": "8",
-      "name": "Deep Indigo",
+      "name": "Deep Indigo Denim",
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
@@ -70,7 +70,7 @@
   "moreProducts": [
     {
       "id": "8",
-      "name": "Distorted Noir",
+      "name": "Distorted Noir Denim",
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
@@ -78,7 +78,7 @@
     },
     {
       "id": "9",
-      "name": "Deep Indigo",
+      "name": "Deep Indigo Denim",
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
@@ -86,7 +86,7 @@
     },
     {
       "id": "10",
-      "name": "Ash Tone Grey",
+      "name": "Ash Tone Grey Denim",
       "slug": "ash-tone-grey",
       "category": "Bottoms",
       "price": 1299.0,
@@ -94,7 +94,7 @@
     },
      {
     "id": "11",
-    "name": "Dust Fade Blue",
+    "name": "Dust Fade Blue Denim",
     "slug": "dust-fade-blue",
     "category": "Bottoms",
     "price": 1240.0,
@@ -104,7 +104,7 @@
   "allProducts": [
     {
       "id": "13",
-      "name": "Revolution by Ethereal",
+      "name": "Revolution T-Shirt by Ethereal",
       "slug": "revolution-by-ethereal",
       "category": "Tops",
       "price": 1199.0,
@@ -112,7 +112,7 @@
     },
     {
       "id": "14",
-      "name": "Statement by Ethereal",
+      "name": "Statement T-Shirt by Ethereal",
       "slug": "statement-by-ethereal",
       "category": "Tops",
       "price": 1169.0,
@@ -120,7 +120,7 @@
     },
     {
       "id": "15",
-      "name": "Obsidian Black",
+      "name": "Obsidian Black Denim",
       "slug": "obsidian-black",
       "category": "Bottoms",
       "price": 1299.0,
@@ -128,7 +128,7 @@
     },
     {
       "id": "16",
-      "name": "Dust Fade Blue",
+      "name": "Dust Fade Blue Denim",
       "slug": "dust-fade-blue",
       "category": "Bottoms",
       "price": 1240.0,
@@ -136,7 +136,7 @@
     },
     {
       "id": "17",
-      "name": "Abstract Blue",
+      "name": "Abstract Blue Denim",
       "slug": "abstract-blue",
       "category": "Bottoms",
       "price": 1299.0,
@@ -144,7 +144,7 @@
     },
     {
       "id": "18",
-      "name": "Rugged Black",
+      "name": "Rugged Black Denim",
       "slug": "rugged-black",
       "category": "Bottoms",
       "price": 1580.0,
@@ -152,7 +152,7 @@
     },
     {
       "id": "19",
-      "name": "Distorted Noir",
+      "name": "Distorted Noir Denim",
       "slug": "distorted-noir",
       "category": "Bottoms",
       "price": 1499.0,
@@ -160,7 +160,7 @@
     },
     {
       "id": "20",
-      "name": "Deep Indigo",
+      "name": "Deep Indigo Denim",
       "slug": "deep-indigo",
       "category": "Bottoms",
       "price": 1299.0,
@@ -168,7 +168,7 @@
     },
     {
       "id": "21",
-      "name": "Ash Tone Grey",
+      "name": "Ash Tone Grey Denim",
       "slug": "ash-tone-grey",
       "category": "Bottoms",
       "price": 1299.0,
